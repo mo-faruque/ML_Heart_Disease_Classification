@@ -46,7 +46,8 @@ This project was the final project for CS 508 Data Mining course that I took in 
 
 ## 4. Results
 
-- Best Binary Classifier: **SVC** (86% accuracy)  **best accuracy in kaggle at that time to the best of knowlwdge**
+- Best Binary Classifier: **SVC** (86% accuracy)  `achieved best accuracy in kaggle at that time to the best of knowledge`
+- Best Multiclass Classifier: **Random Forest** (62.5% accuracy)
 - Published Jupyter notebooks detailing analysis 
 
 **Multiclass Classification Results (Top 3 models)**
